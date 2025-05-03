@@ -1,4 +1,4 @@
-# The simple cross-platform progress bar for terminal apps!
+# The simple cross-platform progress bar for console apps!
 The easy-to-use progress bar for your own terminal/CLI applications on c++
 
 # Features
