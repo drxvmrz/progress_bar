@@ -14,7 +14,7 @@ The easy-to-use progress bar for your own terminal/console/CLI applications on c
 # Example
 There are a simple [example](https://github.com/drxvmrz/progress_bar/tree/main/example) to demonstrate a functionality. This example implements a simulation of a process with tracking of its progress. To see how it works just follow these steps:
 
-## 1. Download the example folder
+## 1. Download the [example](https://github.com/drxvmrz/progress_bar/tree/main/example) folder
 Then add into this folder root two source files from [progress_bar](https://github.com/drxvmrz/progress_bar/tree/main/progress_bar).
 
 ## 2. Build it via CMAKE and run :)
