@@ -1,3 +1,5 @@
+![](https://github.com/drxvmrz/progress_bar/blob/main/assets/progress.gif)
+
 # The simple cross-platform progress bar for console apps!
 The easy-to-use progress bar for your own terminal/console/CLI applications on c++. No need to pre-compile or pre-build anything. Just please add two [files](https://github.com/drxvmrz/progress_bar/tree/main/progress_bar) to your app's sources and include them into your code!!
 
