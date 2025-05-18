@@ -12,15 +12,25 @@ The easy-to-use progress bar for your own terminal/console/CLI applications on c
 
 # Quick start
 
+# Docs (More Details)
+
 # Example
-There are a simple [example](https://github.com/drxvmrz/progress_bar/tree/main/example) to demonstrate a functionality. This example implements a simulation of a process with tracking of its progress. To see how it works just follow these steps:
+There are a simple [example](https://github.com/drxvmrz/progress_bar/tree/main/example) to demonstrate a functionality.  
+This example implements a simulation of a process with tracking of its progress.  
+To see how it works just follow these steps:
 
 ## 1. Download the [example](https://github.com/drxvmrz/progress_bar/tree/main/example) folder
 Then add into this folder root two source files from [progress_bar](https://github.com/drxvmrz/progress_bar/tree/main/progress_bar).
 
 ## 2. Build it via CMAKE and run :)
-Open your terminal in a root of downloaded ```example``` folder. Make sure that the CMAKE is specified in your ```PATH``` variable. Then invoke following commands:
+Open your terminal in a root of downloaded ```example``` folder.  
+Make sure that the CMAKE is specified in your ```PATH``` variable.  
+Then invoke following commands:
 ```
 mkdir build && cmake -B ./build && cmake --build ./build && cd ./build/Debug && ./main
 ```
-Use ```main``` instead of ```./main``` if you're in windows command prompt.
+Use ```main``` instead of ```./main``` if you're in WINDOWS command prompt (not PowerShell):
+```
+mkdir build && cmake -B ./build && cmake --build ./build && cd ./build/Debug && main
+```
+
