@@ -8,7 +8,7 @@ The easy-to-use progress bar for your own terminal/console/CLI applications on c
 - [x] Easy to customize for your own style;
 - [x] Nothing to pre-build or pre-compile;
 - [x] Only cross-platform standart libraries;
-- [x] Automatic progress bar adjustment to the current progress value relative to the bar length.
+- [x] Auto-recalculation progress to percents.
 
 # Quick start
 
