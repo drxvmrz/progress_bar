@@ -8,4 +8,4 @@ set(CMAKE_BUILD_TYPE "Debug")
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 
-add_executable(main main.cpp progress_bar.cpp)
+add_executable(main main.cpp)
